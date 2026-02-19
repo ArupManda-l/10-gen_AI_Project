@@ -1,2 +1,2 @@
-# 10-gen_AI_Project
-AI in Daily Life
+#Agentic Chatbot::
+Act as personal AI assistant.....
